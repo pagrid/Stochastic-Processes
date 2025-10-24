@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """Random_Walks_and_first_passage_time.py
-.
-# -*- coding: utf-8 -*-
-
-"""random_walks_and_first_passage_time.ipynb
 
 Random Walks, First Passage Times, and Recurrence Phenomena
 -----------------------------------------------------------
