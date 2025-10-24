@@ -15,8 +15,8 @@ This project simulates and analyzes **1D** and **2D Brownian motion**, visualizi
 - 🎨 **Trajectory visualization** for multiple particles  
 - 🔬 **Statistical averaging** over thousands of random walkers  
 - 📁 **Organized structure:**  
-  - `/1D` → Single-axis Brownian motion  
-  - `/2D` → Planar Brownian motion  
+  - `/1-D Brownian Motion` → Single-axis Brownian motion  
+  - `/2-D Brownian Motion` → Planar Brownian motion  
   - `/figures` → Generated plots and visualizations  
 
 ---
